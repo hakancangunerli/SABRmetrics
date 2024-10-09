@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#005A9C"  # Dodger Blue
+backgroundColor = "#FFFFFF"  # White
+secondaryBackgroundColor = "#F0F2F6"  # Light Grey for sidebar and other elements
+textColor = "#000000"  # Black
+font = "sans serif"
